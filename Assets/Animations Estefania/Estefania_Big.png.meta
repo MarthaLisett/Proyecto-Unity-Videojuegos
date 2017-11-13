@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: 0b459c50783e3ae4ca68e89d547ff909
+timeCreated: 1510121607
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Estefania_Big_0
+    21300002: Estefania_Big_1
+    21300004: Estefania_Big_2
+    21300006: Estefania_Big_3
+    21300008: Estefania_Big_4
+    21300010: Estefania_Big_5
+    21300012: Estefania_Big_6
+    21300014: Estefania_Big_7
+    21300016: Estefania_Big_8
+    21300018: Estefania_Big_9
+    21300020: Estefania_Big_10
+    21300022: Estefania_Big_11
+    21300024: Estefania_Big_12
+    21300026: Estefania_Big_13
+    21300028: Estefania_Big_14
+    21300030: Estefania_Big_15
+    21300032: Estefania_Big_16
+    21300034: Estefania_Big_17
+    21300036: Estefania_Big_18
+    21300038: Estefania_Big_19
+    21300040: Estefania_Big_20
+    21300042: Estefania_Big_21
+    21300044: Estefania_Big_22
+    21300046: Estefania_Big_23
+    21300048: Estefania_Big_24
+    21300050: Estefania_Big_25
+    21300052: Estefania_Big_26
+    21300054: Estefania_Big_27
+    21300056: Estefania_Big_28
+    21300058: Estefania_Big_29
+    21300060: Estefania_Big_30
+    21300062: Estefania_Big_31
+    21300064: Estefania_Big_32
+    21300066: Estefania_Big_33
+    21300068: Estefania_Big_34
+    21300070: Estefania_Big_35
+    21300072: Estefania_Big_36
+    21300074: Estefania_Big_37
+    21300076: Estefania_Big_38
+    21300078: Estefania_Big_39
+    21300080: Estefania_Big_40
+    21300082: Estefania_Big_41
+    21300084: Estefania_Big_42
+    21300086: Estefania_Big_43
+    21300088: Estefania_Big_44
+    21300090: Estefania_Big_45
+    21300092: Estefania_Big_46
+    21300094: Estefania_Big_47
+    21300096: Estefania_Big_48
+    21300098: Estefania_Big_49
+    21300100: Estefania_Big_50
+    21300102: Estefania_Big_51
+    21300104: Estefania_Big_52
+    21300106: Estefania_Big_53
+    21300108: Estefania_Big_54
+    21300110: Estefania_Big_55
+    21300112: Estefania_Big_56
+    21300114: Estefania_Big_57
+    21300116: Estefania_Big_58
+    21300118: Estefania_Big_59
+    21300120: Estefania_Big_60
+    21300122: Estefania_Big_61
+    21300124: Estefania_Big_62
+    21300126: Estefania_Big_63
+    21300128: Estefania_Big_64
+    21300130: Estefania_Big_65
+    21300132: Estefania_Big_66
+    21300134: Estefania_Big_67
+    21300136: Estefania_Big_68
+    21300138: Estefania_Big_69
+    21300140: Estefania_Big_70
+    21300142: Estefania_Big_71
+    21300144: Estefania_Big_72
+    21300146: Estefania_Big_73
+    21300148: Estefania_Big_74
+    21300150: Estefania_Big_75
+    21300152: Estefania_Big_76
+    21300154: Estefania_Big_77
+    21300156: Estefania_Big_78
+    21300158: Estefania_Big_79
+    21300160: Estefania_Big_80
+    21300162: Estefania_Big_81
+    21300164: Estefania_Big_82
+    21300166: Estefania_Big_83
+    21300168: Estefania_Big_84
+    21300170: Estefania_Big_85
+    21300172: Estefania_Big_86
+    21300174: Estefania_Big_87
+    21300176: Estefania_Big_88
+    21300178: Estefania_Big_89
+    21300180: Estefania_Big_90
+    21300182: Estefania_Big_91
+    21300184: Estefania_Big_92
+    21300186: Estefania_Big_93
+    21300188: Estefania_Big_94
+    21300190: Estefania_Big_95
+    21300192: Estefania_Big_96
+    21300194: Estefania_Big_97
+    21300196: Estefania_Big_98
+    21300198: Estefania_Big_99
+    21300200: Estefania_Big_100
+    21300202: Estefania_Big_101
+    21300204: Estefania_Big_102
+    21300206: Estefania_Big_103
+    21300208: Estefania_Big_104
+    21300210: Estefania_Big_105
+    21300212: Estefania_Big_106
+    21300214: Estefania_Big_107
+    21300216: Estefania_Big_108
+    21300218: Estefania_Big_109
+    21300220: Estefania_Big_110
+    21300222: Estefania_Big_111
+    21300224: Estefania_Big_112
+    21300226: Estefania_Big_113
+    21300228: Estefania_Big_114
+    21300230: Estefania_Big_115
+    21300232: Estefania_Big_116
+    21300234: Estefania_Big_117
+    21300236: Estefania_Big_118
+    21300238: Estefania_Big_119
+    21300240: Estefania_Big_120
+    21300242: Estefania_Big_121
+    21300244: Estefania_Big_122
+    21300246: Estefania_Big_123
+    21300248: Estefania_Big_124
+    21300250: Estefania_Big_125
+    21300252: Estefania_Big_126
+    21300254: Estefania_Big_127
+    21300256: Estefania_Big_128
+    21300258: Estefania_Big_129
+    21300260: Estefania_Big_130
+    21300262: Estefania_Big_131
+    21300264: Estefania_Big_132
+    21300266: Estefania_Big_133
+    21300268: Estefania_Big_134
+    21300270: Estefania_Big_135
+    21300272: Estefania_Big_136
+    21300274: Estefania_Big_137
+    21300276: Estefania_Big_138
+    21300278: Estefania_Big_139
+    21300280: Estefania_Big_140
+    21300282: Estefania_Big_141
+    21300284: Estefania_Big_142
+    21300286: Estefania_Big_143
+    21300288: Estefania_Big_144
+    21300290: Estefania_Big_145
+    21300292: Estefania_Big_146
+    21300294: Estefania_Big_147
+    21300296: Estefania_Big_148
+    21300298: Estefania_Big_149
+    21300300: Estefania_Big_150
+    21300302: Estefania_Big_151
+    21300304: Estefania_Big_152
+    21300306: Estefania_Big_153
+    21300308: Estefania_Big_154
+    21300310: Estefania_Big_155
+    21300312: Estefania_Big_156
+    21300314: Estefania_Big_157
+    21300316: Estefania_Big_158
+    21300318: Estefania_Big_159
+    21300320: Estefania_Big_160
+    21300322: Estefania_Big_161
+    21300324: Estefania_Big_162
+    21300326: Estefania_Big_163
+    21300328: Estefania_Big_164
+    21300330: Estefania_Big_165
+    21300332: Estefania_Big_166
+    21300334: Estefania_Big_167
+    21300336: Estefania_Big_168
+    21300338: Estefania_Big_169
+    21300340: Estefania_Big_170
+    21300342: Estefania_Big_171
+    21300344: Estefania_Big_172
+    21300346: Estefania_Big_173
+    21300348: Estefania_Big_174
+    21300350: Estefania_Big_175
+    21300352: Estefania_Big_176
+    21300354: Estefania_Big_177
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Estefania_Big_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1377
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1377
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1377
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1377
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1377
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1377
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1377
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1307
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1307
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1307
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1307
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1307
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1307
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1307
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1237
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1237
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1237
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1237
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1237
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1237
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1237
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1169
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1169
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1169
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1169
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1169
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1169
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1169
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1100
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1100
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1100
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1100
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1100
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1100
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1100
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1100
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1032
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1032
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1030
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1030
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1030
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1030
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1030
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1030
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 961
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_45
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 961
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 963
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 963
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 963
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 963
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_50
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 963
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_51
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 963
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 893
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 893
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 893
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 893
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 893
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 893
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 893
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 893
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 826
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 826
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 826
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 824
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 826
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 826
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 826
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 824
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_68
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 826
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 756
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 758
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 758
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_72
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 758
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 758
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 758
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_75
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 758
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 758
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_77
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 758
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 687
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_79
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 687
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 686
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 687
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 686
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 686
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 686
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_85
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 687
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 686
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 618
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_88
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 619
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 621
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_90
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 621
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 619
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 619
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_93
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 619
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_94
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 619
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_95
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 619
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 550
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 551
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 551
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_99
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 550
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 550
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_101
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 551
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 481
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 480
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 481
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 481
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 481
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 412
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_109
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 412
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 412
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 413
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_112
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 413
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_113
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 413
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 344
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 341
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 342
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 344
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_118
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 344
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_119
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 344
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 276
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 275
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_122
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 273
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 273
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_124
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 273
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_125
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 273
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_126
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_127
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 273
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_128
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 273
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_129
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 273
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_130
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 273
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_131
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 273
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_132
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 273
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_133
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_134
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 205
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 206
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_136
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 205
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 205
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_138
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 205
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_139
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 205
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_140
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 205
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_141
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 205
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_142
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 205
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_143
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 205
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_144
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 205
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_145
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 205
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 136
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_148
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 138
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 136
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_151
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 136
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_152
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 136
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_153
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 136
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_154
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 136
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_155
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 136
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_156
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 136
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_157
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 136
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_158
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 136
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_159
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_161
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_162
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_163
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 67
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_164
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 67
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_165
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 67
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_166
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 67
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_167
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_168
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 67
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_169
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 67
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_170
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 67
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_171
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 67
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_173
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_174
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_175
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_176
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Estefania_Big_177
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

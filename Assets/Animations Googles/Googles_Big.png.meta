@@ -1,0 +1,2725 @@
+fileFormatVersion: 2
+guid: bde2944a01ba9fa48a598f6f2a74a730
+timeCreated: 1510121558
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Googles_Big_0
+    21300002: Googles_Big_1
+    21300004: Googles_Big_2
+    21300006: Googles_Big_3
+    21300008: Googles_Big_4
+    21300010: Googles_Big_5
+    21300012: Googles_Big_6
+    21300014: Googles_Big_7
+    21300016: Googles_Big_8
+    21300018: Googles_Big_9
+    21300020: Googles_Big_10
+    21300022: Googles_Big_11
+    21300024: Googles_Big_12
+    21300026: Googles_Big_13
+    21300028: Googles_Big_14
+    21300030: Googles_Big_15
+    21300032: Googles_Big_16
+    21300034: Googles_Big_17
+    21300036: Googles_Big_18
+    21300038: Googles_Big_19
+    21300040: Googles_Big_20
+    21300042: Googles_Big_21
+    21300044: Googles_Big_22
+    21300046: Googles_Big_23
+    21300048: Googles_Big_24
+    21300050: Googles_Big_25
+    21300052: Googles_Big_26
+    21300054: Googles_Big_27
+    21300056: Googles_Big_28
+    21300058: Googles_Big_29
+    21300060: Googles_Big_30
+    21300062: Googles_Big_31
+    21300064: Googles_Big_32
+    21300066: Googles_Big_33
+    21300068: Googles_Big_34
+    21300070: Googles_Big_35
+    21300072: Googles_Big_36
+    21300074: Googles_Big_37
+    21300076: Googles_Big_38
+    21300078: Googles_Big_39
+    21300080: Googles_Big_40
+    21300082: Googles_Big_41
+    21300084: Googles_Big_42
+    21300086: Googles_Big_43
+    21300088: Googles_Big_44
+    21300090: Googles_Big_45
+    21300092: Googles_Big_46
+    21300094: Googles_Big_47
+    21300096: Googles_Big_48
+    21300098: Googles_Big_49
+    21300100: Googles_Big_50
+    21300102: Googles_Big_51
+    21300104: Googles_Big_52
+    21300106: Googles_Big_53
+    21300108: Googles_Big_54
+    21300110: Googles_Big_55
+    21300112: Googles_Big_56
+    21300114: Googles_Big_57
+    21300116: Googles_Big_58
+    21300118: Googles_Big_59
+    21300120: Googles_Big_60
+    21300122: Googles_Big_61
+    21300124: Googles_Big_62
+    21300126: Googles_Big_63
+    21300128: Googles_Big_64
+    21300130: Googles_Big_65
+    21300132: Googles_Big_66
+    21300134: Googles_Big_67
+    21300136: Googles_Big_68
+    21300138: Googles_Big_69
+    21300140: Googles_Big_70
+    21300142: Googles_Big_71
+    21300144: Googles_Big_72
+    21300146: Googles_Big_73
+    21300148: Googles_Big_74
+    21300150: Googles_Big_75
+    21300152: Googles_Big_76
+    21300154: Googles_Big_77
+    21300156: Googles_Big_78
+    21300158: Googles_Big_79
+    21300160: Googles_Big_80
+    21300162: Googles_Big_81
+    21300164: Googles_Big_82
+    21300166: Googles_Big_83
+    21300168: Googles_Big_84
+    21300170: Googles_Big_85
+    21300172: Googles_Big_86
+    21300174: Googles_Big_87
+    21300176: Googles_Big_88
+    21300178: Googles_Big_89
+    21300180: Googles_Big_90
+    21300182: Googles_Big_91
+    21300184: Googles_Big_92
+    21300186: Googles_Big_93
+    21300188: Googles_Big_94
+    21300190: Googles_Big_95
+    21300192: Googles_Big_96
+    21300194: Googles_Big_97
+    21300196: Googles_Big_98
+    21300198: Googles_Big_99
+    21300200: Googles_Big_100
+    21300202: Googles_Big_101
+    21300204: Googles_Big_102
+    21300206: Googles_Big_103
+    21300208: Googles_Big_104
+    21300210: Googles_Big_105
+    21300212: Googles_Big_106
+    21300214: Googles_Big_107
+    21300216: Googles_Big_108
+    21300218: Googles_Big_109
+    21300220: Googles_Big_110
+    21300222: Googles_Big_111
+    21300224: Googles_Big_112
+    21300226: Googles_Big_113
+    21300228: Googles_Big_114
+    21300230: Googles_Big_115
+    21300232: Googles_Big_116
+    21300234: Googles_Big_117
+    21300236: Googles_Big_118
+    21300238: Googles_Big_119
+    21300240: Googles_Big_120
+    21300242: Googles_Big_121
+    21300244: Googles_Big_122
+    21300246: Googles_Big_123
+    21300248: Googles_Big_124
+    21300250: Googles_Big_125
+    21300252: Googles_Big_126
+    21300254: Googles_Big_127
+    21300256: Googles_Big_128
+    21300258: Googles_Big_129
+    21300260: Googles_Big_130
+    21300262: Googles_Big_131
+    21300264: Googles_Big_132
+    21300266: Googles_Big_133
+    21300268: Googles_Big_134
+    21300270: Googles_Big_135
+    21300272: Googles_Big_136
+    21300274: Googles_Big_137
+    21300276: Googles_Big_138
+    21300278: Googles_Big_139
+    21300280: Googles_Big_140
+    21300282: Googles_Big_141
+    21300284: Googles_Big_142
+    21300286: Googles_Big_143
+    21300288: Googles_Big_144
+    21300290: Googles_Big_145
+    21300292: Googles_Big_146
+    21300294: Googles_Big_147
+    21300296: Googles_Big_148
+    21300298: Googles_Big_149
+    21300300: Googles_Big_150
+    21300302: Googles_Big_151
+    21300304: Googles_Big_152
+    21300306: Googles_Big_153
+    21300308: Googles_Big_154
+    21300310: Googles_Big_155
+    21300312: Googles_Big_156
+    21300314: Googles_Big_157
+    21300316: Googles_Big_158
+    21300318: Googles_Big_159
+    21300320: Googles_Big_160
+    21300322: Googles_Big_161
+    21300324: Googles_Big_162
+    21300326: Googles_Big_163
+    21300328: Googles_Big_164
+    21300330: Googles_Big_165
+    21300332: Googles_Big_166
+    21300334: Googles_Big_167
+    21300336: Googles_Big_168
+    21300338: Googles_Big_169
+    21300340: Googles_Big_170
+    21300342: Googles_Big_171
+    21300344: Googles_Big_172
+    21300346: Googles_Big_173
+    21300348: Googles_Big_174
+    21300350: Googles_Big_175
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Googles_Big_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1377
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1377
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1377
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1377
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1377
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1377
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1377
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1307
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1307
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1307
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1307
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1307
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1307
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1307
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1237
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1237
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1237
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1237
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1237
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1237
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1237
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1169
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1169
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1169
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1169
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1169
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1169
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1169
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1101
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1100
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1100
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1100
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1100
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1100
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1100
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1100
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1032
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1032
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1032
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1030
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1030
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1030
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1030
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1030
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 961
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 963
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_46
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 963
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 963
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 963
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_49
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 963
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_50
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 963
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_51
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 963
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 893
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 893
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 893
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 893
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_56
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 893
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 893
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 893
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 893
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 827
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 827
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 826
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 826
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 826
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 827
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 826
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 826
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_68
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 826
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 756
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 758
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 758
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_72
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 758
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 758
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 758
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_75
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 758
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_76
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 758
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_77
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 758
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 687
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 687
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_80
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 687
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 687
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_82
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 686
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 687
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 687
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 687
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_86
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 686
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 618
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 619
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 621
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_90
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 621
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 619
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_92
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 619
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_93
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 619
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_94
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 619
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_95
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 619
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 550
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 550
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 550
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_99
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 550
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 550
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_101
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 550
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 481
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 480
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 480
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_107
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 480
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 412
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_109
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 412
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 412
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_111
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 412
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_112
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 412
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_113
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 412
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 344
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_116
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 342
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 273
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_119
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 273
+        width: 45
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_121
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 273
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_122
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 273
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_123
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 273
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_124
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_125
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 273
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_126
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 273
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_127
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 273
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_128
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 273
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_129
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 273
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_130
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 273
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 206
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_133
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 206
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_134
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 205
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_135
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 205
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_136
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 205
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_137
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 205
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_138
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 205
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_139
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 205
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_140
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 205
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_141
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 205
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_142
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 205
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_143
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 205
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_144
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 136
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_145
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 137
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_146
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 138
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_148
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 136
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_149
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 136
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_150
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 136
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_151
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 136
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_152
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 136
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_153
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 136
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_154
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 136
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_155
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 136
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_156
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 136
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_157
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 68
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 68
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_159
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_160
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 67
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_161
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 67
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_162
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 67
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_163
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 67
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_164
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 67
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_165
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 67
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_166
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 67
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 67
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_168
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 67
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_169
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 67
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_170
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_171
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_172
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_173
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_174
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Googles_Big_175
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
